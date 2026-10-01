@@ -24,9 +24,17 @@ J'aime transformer des données brutes en outils concrets, qui aident vraiment l
 ## Compétences
 
 **Données** · Python, pandas, SQL, R, Power BI, Excel
+
+
 **Machine learning** · scikit-learn, Random Forest, TensorFlow, PyTorch, séries temporelles
+
+
 **IA générative** · LLM, RAG, GraphRAG, agents IA, LangChain, n8n
+
+
 **Mise en production** · Docker, CI/CD, API REST, Flask, Streamlit, Git
+
+
 **Bases de données** · SQLite, MongoDB, Neo4j
 
 ---
@@ -34,4 +42,6 @@ J'aime transformer des données brutes en outils concrets, qui aident vraiment l
 ## Me contacter
 
 📧 nosaiba.elkrekshi@gmail.com · 
+
+
 💼 [LinkedIn](https://www.linkedin.com/in/nosaiba-elkrekshi)
