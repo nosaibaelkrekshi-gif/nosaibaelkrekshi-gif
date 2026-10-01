@@ -33,4 +33,5 @@ J'aime transformer des données brutes en outils concrets, qui aident vraiment l
 
 ## Me contacter
 
-📧 nosaiba.elkrekshi@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/nosaiba-elkrekshi)
+📧 nosaiba.elkrekshi@gmail.com · 
+💼 [LinkedIn](https://www.linkedin.com/in/nosaiba-elkrekshi)
