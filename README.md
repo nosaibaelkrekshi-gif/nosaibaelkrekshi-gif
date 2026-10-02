@@ -19,6 +19,7 @@ Après une licence d'informatique à l'Université de Strasbourg et un Bachelor 
 | 🍽️ [**Assistant restaurant IA**](https://github.com/nosaibaelkrekshi-gif/assistant-restaurant-ia) | Chatbot NLP qui recommande des restaurants : 15 intentions, 860 phrases d'entraînement, interface Streamlit | NLTK, scikit-learn, Streamlit |
 | 🔒 [**VoyageIA**](https://github.com/nosaibaelkrekshi-gif/voyageia-rgpd) | Application de recommandation de voyages conçue pour le RGPD : consentement tracé, droits d'accès, d'effacement et de portabilité | Flask, SQLite, scikit-learn |
 | ⚙️ [**SYNAPSE, étude de cas**](https://github.com/nosaibaelkrekshi-gif/synapse-scoring-case-study) | Moteur de scoring central de la plateforme d'IA SYNAPSE, conçu en stage chez Arimayi : scoring hybride, explicabilité (XAI), traçabilité RGPD | FastAPI, BM25, pytest, Docker |
+| 💬 [**Analyse de sentiments en français**](https://github.com/nosaibaelkrekshi-gif/analyse-sentiments-francais) | Système multi-niveaux, dataset annoté, puis 5 méthodes comparées sur 2 000 critiques Allociné : 93,1 % avec TF-IDF + régression logistique | spaCy, scikit-learn, BERT |
 
 ---
 
